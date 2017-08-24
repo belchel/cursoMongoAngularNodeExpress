@@ -9,6 +9,7 @@
   "author": "\"rachel reuters\"",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.4",
     "lodash": "^4.17.4"
   }
 }
